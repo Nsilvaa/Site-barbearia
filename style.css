@@ -86,6 +86,7 @@ i {
 .bg-home {
   position: relative;
   background-image:url(assets/fundo.jpg);
+  background-size: cover;
 }
 
 .bg-home::before {
@@ -285,6 +286,9 @@ i {
   padding: 54px 0;
   gap: 24px;
   color: #ffffff;
+  background-image:url(assets/fundo.jpg);
+  background-size: cover;
+  margin: 0;
 }
 
 .footer-icons {
