@@ -297,6 +297,7 @@ i {
   display: flex;
   gap: 8px;
   color: #FFF;
+  margin-right: 40px;
 }
 
 .btn-whatsapp {
